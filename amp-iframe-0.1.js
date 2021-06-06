@@ -1,13 +1,3 @@
-<!--
--------------------------- Please do not remove this following CREDIT --------------------------
-disqus comment for AMP Blogspot - blogger.com, revised and optimized by Klikdesainweb
-homepage: https://www.klikdesainweb.com
-hubungi Jasa Website:+62 895-2637-5787.
-Address: Bukit kemuning, Lampung Utara, Lampung 34556 - Indonesia
-Jasa Pembuatan Website
--------------------------- Please do not remove this following CREDIT --------------------------
--->
-
 <div id="disqus_thread"></div>
 <script>
 var parentUrl = document.referrer;
